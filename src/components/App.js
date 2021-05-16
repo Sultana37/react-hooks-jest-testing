@@ -1,7 +1,12 @@
 import React from "react";
 
-function App() {
-  return <div className="App">learn react!</div>;
+function Article() {
+  return (
+    <div>
+      {/* uncomment the line below to pass the test */}
+      please pass this test
+    </div>
+  );
 }
 
-export default App;
+export default Article;
